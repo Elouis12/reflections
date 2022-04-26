@@ -12,7 +12,7 @@ const postSchema = mongoose.Schema({ // how a post a structured
         type : Number,
         default : 0
     },
-
+    // fetch current date and time
     createdAt : {
 
         type : Date,

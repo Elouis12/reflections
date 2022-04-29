@@ -64,4 +64,3 @@ RUNNING DATABASE
 
 
 
-![image](https://user-images.githubusercontent.com/81540554/166081516-75125ef0-93cf-4b01-aeca-fb65fa906ec0.png)

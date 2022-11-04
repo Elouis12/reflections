@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="83cc38ae-a122-4133-b1db-7f11446d9c16" name="Default Changelist" comment="Final UI Change?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/node_modules/.bin/react-scripts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.bin/react-scripts" afterDir="false" />
@@ -7432,6 +7433,15 @@
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server/README" beforeDir="false" afterPath="$PROJECT_DIR$/server/README" afterDir="false" />
+=======
+    <list default="true" id="83cc38ae-a122-4133-b1db-7f11446d9c16" name="Default Changelist" comment="update files">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/reflections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/506a8fa836df5d93d37ee0a9a4c47dfd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/92790232d497055ee171561ae785d6a5.json" afterDir="false" />
+>>>>>>> 161296c425ed83c53413c6e8da7a77f4604c3977
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -7477,7 +7487,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../snapshots_project/snapshots_project" />
+>>>>>>> 161296c425ed83c53413c6e8da7a77f4604c3977
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\DOWNLOADS\JetBrains\WebStorm\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -7523,6 +7537,7 @@
       <workItem from="1650246903460" duration="2800000" />
       <workItem from="1650575551095" duration="523000" />
       <workItem from="1650609556437" duration="62000" />
+<<<<<<< HEAD
       <workItem from="1650659209984" duration="302000" />
       <workItem from="1650951783112" duration="1483000" />
       <workItem from="1651028739684" duration="595000" />
@@ -7562,6 +7577,8 @@
       <workItem from="1661906574363" duration="356000" />
       <workItem from="1663866381691" duration="2186000" />
       <workItem from="1667520395603" duration="2042000" />
+=======
+>>>>>>> 161296c425ed83c53413c6e8da7a77f4604c3977
     </task>
     <task id="LOCAL-00001" summary="server files">
       <created>1648861628906</created>
@@ -7647,7 +7664,18 @@
       <option name="project" value="LOCAL" />
       <updated>1650232580007</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="13" />
+=======
+    <task id="LOCAL-00013" summary="update files">
+      <created>1650610376730</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650610376730</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+>>>>>>> 161296c425ed83c53413c6e8da7a77f4604c3977
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -7704,6 +7732,7 @@
     <MESSAGE value="cleanning up some files" />
     <MESSAGE value="new changes (color change(s))" />
     <MESSAGE value="Final UI Change?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final UI Change?" />
+    <MESSAGE value="update files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update files" />
   </component>
 </project>
